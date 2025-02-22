@@ -4,7 +4,7 @@ Details:
         Phone:  +48 788 618 419  
         Email:  sergeilisitsyn66@gmail.com
         Company: "LISITSYN, YATSENKO SPÓLKA JAWNA"
-        Adress:  Wejherowska 4, 80-209 Karczemki, Poland
+        Address:  Wejherowska 4, 80-209 Karczemki, Poland
 Public profile & URL:
         linkedin: www.linkedin.com/in/sergei-lisitsyn-57aa42244
 Languages:
@@ -16,7 +16,7 @@ Soft Skills:
        Fast Learner: 5
        Critical thinking, problem solving: 5
        Adaptability: 4.5
-       Ability to work under presure: 4.5
+       Ability to work under pressure: 4.5
        Ability to work in a Team: 4.5
 Hard Skills:
            Standard: Git, Docker
@@ -27,25 +27,28 @@ Hard Skills:
            Other: Power BI Architecture, 
                   Apache JMeter, JIRA, Selenium, AWS S3, AWS Aurora, Amazon EC2.
 Moto: 
-      Voltair: Work spare us from three evils - boredom, vice, and need. Voltair
+      Voltaire: Work spare us from three evils - boredom, vice, and need. Voltaire
       Johann Wolfgang von Goethe:  Was man nicht versteht, besitzt man nicht.
 Employment History:
           LISITSYN, YATSENKO SPÓLKA JAWNA:
                 Place: Karczemki, Poland
                 Dates: from August 2023
                 Position: Self-employed
+                Tasks performed:
+                  Creation APP (Django) for Invoices creation and management 
+                  WEB parsing - Data extraction - cleaning - transformation into Excel files
           EPAM:
                 Place: Minsk, Belarus
-                Position: DQ Engeenier
+                Position: DQ Engineer
                 Dates: from September 2021 to  July 2022
                 Customer: Software & Hi-Tech
                 Project: Host & Execute Cross location Data & Analytics Lab.
                 Tasks performed:
                           /Requirements Elicitation
-                          /Communication with the CustSomer
+                          /Communication with the Customer
                           /Working with business requirements and their clarification
                           /DB modeling (database model for layer 3 Normal Form)
-                          /Dashboard and ETL Result testing and verification (Manual and automation testing using Apache JMeter, Selenium, preparing checklists, bug reports, data mapping, data profiling, test strategy)
+                          /Dashboard and ETL Result testing and verification (Manual and automation testing using Apache JMeter, Selenium, preparing checklists, bug reports, job_data mapping, job_data profiling, test strategy)
                           /Working with flat files (.csv, .xlsx, .txt, .pdf, .yaml etc.)
                           /Creating test documentation (checklist, test strategy etc.)
                           /SQL and PL-SQL query optimization
@@ -73,33 +76,34 @@ Employment History:
                 Place: Gomel, Belarus
                 Position: CEO
                 Dates: from September 1993 to  December 1999
-          V.A. Belyi Metal-Polymer Research Institute of National Academy of Sciences of Belarus:
-                Place: Gomel, Belarus
+          V.A.Belyi MPRI of National Academy of Sciences of Belarus:
+                Place: Gomel
                 Position: Trainee researcher
-                Dates: from September 1991 to September 1993
-
-
-
-
-
-
+                Dates: from September 1990 to September 1993
 
 Education:
-            Name of the Education Establishment: Gomel State University
-            Degree (diploma): Bachelor
-            Specialty: Theoretical Physics
-Training coures: 
-            Data Lab (EPAM): Python, DWH ETL, Oracle, AWS, Power BI, DQ, BI Analysis, Data Engineering Training, Software Development Lifecycle.
-            Starta Institute by Tel-Ran:  10785 Berlin, Deutschland.
-            Subject: Python Backend Developer.
+            Name : Gomel State University
+            Dates: September 1983 - June 1990
+            Degree : Bachelor's degree with honors
+            Specialty: Physics
+Training courses:
+            Data Lab (EPAM):
+              Dates: from August 2021 to June 2022.
+              Place: Minsk, Belarus.
+              Subject: Python, DWH ETL, Oracle, AWS, Power BI, DQ, BI Analysis, Data Engineering Training, Software Development Lifecycle.
+
+            Starta Institute by Tel-Ran:
+               Dates: from September 2024.
+               Place: 10785 Berlin, Deutschland.
+               Subject: Core Python, Advanced Python OPP, Django and Database, Docker.
 My Projects:
            Creation Web based APP for creation and managing of invoices.
            Websolution - Django.                 
            Data Base - PostgreSQL.
-           Telegram BOT for load voice and text notes, cleaning, transformation, load and managing business data.
+           Telegram BOT for load voice and text notes, cleaning, transformation, load and managing business job_data.
 My Intersts:
             Data retrieving, transformation, ordering, utilisation.
-            Using AI as helper, adveiser and agent.
+            Using AI as helper, adviser and agent.
            
             
 ...

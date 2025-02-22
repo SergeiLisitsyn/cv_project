@@ -1,0 +1,105 @@
+Details:
+   Name: Sergei Lisitsyn
+   Phone: +48 788 618 419
+   Email: sergeilisitsyn66@gmail.com
+   Company: "LISITSYN, YATSENKO SPÓLKA JAWNA"
+   Address: Wejherowska 4, 80-209 Karczemki, Polen
+
+Öffentliches Profil & URL:
+    LinkedIn: www.linkedin.com/in/sergei-lisitsyn-57aa42244
+
+Sprachen:
+   Russisch: Muttersprache
+   Englisch: B1+
+   Deutsch: B1+
+   Polnisch: A2
+
+Soft Skills:
+   Schnelle Auffassungsgabe: 5
+   Kritisches Denken, Problemlösung: 5
+   Anpassungsfähigkeit: 4,5
+   Fähigkeit, unter Druck zu arbeiten: 4,5
+   Teamfähigkeit: 4,5
+
+Hard Skills:
+   Standard: Git, Docker
+   SQL: SQL Management Studio, PostgreSQL, Oracle RDBMS, MySQL, SQLite
+   Python: Pandas, NumPy, FastAPI, Pydantic, Django, SQLAlchemy, SQLModel
+   Andere:  Power BI-Architektur, Apache JMeter, JIRA, Selenium, AWS S3, AWS Aurora, Amazon EC2
+
+Motto:
+    Voltaire: Arbeit bewahrt uns vor drei Übeln - Langeweile, Laster und Not.
+    Johann Wolfgang von Goethe: Was man nicht versteht, besitzt man nicht.
+
+Berufserfahrung:
+    Lisitsyn, Yatsenko spólka jawna:
+        Ort: Karczemki, Polen
+        Zeitraum: Seit August 2023
+        Position: Selbstständig
+        Aufgaben:
+           Entwicklung einer App (Django) zur Erstellung und Verwaltung von Rechnungen  
+           Web-Parsing – Datenextraktion – Bereinigung – Transformation in Excel-Dateien
+
+    EPAM:
+        Ort: Minsk, Belarus
+        Position: DQ Engineer
+        Zeitraum: September 2021 bis Juli 2022
+        Kunde: Software & Hi-Tech
+        Projekt: Host & Execute Cross Location Data & Analytics Lab
+        Aufgaben: Anforderungserhebung, Kommunikation mit dem Kunden, Arbeit mit Geschäftsanforderungen und deren Klärung, 
+                  Datenbankmodellierung (Datenbankmodell für die 3. Normalform), 
+                  Dashboard- und ETL-Ergebnis-Tests und -Validierung (Manuelle und automatisierte Tests mit Apache JMeter, 
+                  Selenium, Erstellung von Checklisten, Fehlerberichten, Job-Daten-Mapping, Job-Daten-Profiling, Teststrategie),
+                  Arbeit mit Flatfiles (.csv, .xlsx, .txt, .pdf, .yaml usw.), 
+                  Erstellung von Testdokumentation (Checklisten, Teststrategien usw.), SQL- und PL/SQL-Abfrageoptimierung,
+                  Datenqualität, Datenvollständigkeit, Datentransformation
+
+    Translog Ltd.:
+        Ort: Smolensk, Russland
+        Position: CEO
+        Zeitraum: Januar 2017 bis Februar 2019
+        Verantwortung: Management aller Geschäftsprozesse. Erstellung eines Data Warehouse, 
+                       Verwaltung und automatische Generierung von Berichten und Dokumenten
+
+    Elephant Translog GmbH:
+        Ort: Fürstewalde, Deutschland
+        Position: CEO
+        Zeitraum: Januar 2012 bis Oktober 2016
+        Verantwortung: Aufbau von Beziehungen zu Lieferanten und Kunden, Abwicklung von Zollformalitäten
+
+    Eurogruz Ltd:
+        Ort: Kaliningrad, Russland
+        Position: CEO
+        Zeitraum: Dezember 2002 bis September 2011
+
+    Foxet Trading Ltd:
+        Ort: Rokycany, Tschechische Republik
+        Position: CEO
+        Zeitraum: Januar 2000 bis November 2002
+
+    Beltek Ltd:
+        Ort: Gomel, Belarus
+        Position: CEO
+        Zeitraum: September 1993 bis Dezember 1999
+
+    V.A. Belyi MPRI der Nationalen Akademie der Wissenschaften von Belarus:
+        Ort: Gomel
+        Position: Wissenschaftlicher Praktikant
+        Zeitraum: September 1990 bis September 1993
+
+Ausbildung:
+    Name: Gomel State University
+    Zeitraum: September 1983 – Juni 1990
+    Abschluss: Bachelor-Abschluss mit Auszeichnung,
+    Spezialität: Physik
+
+Trainingskurse:
+    Data Lab (EPAM):
+        Zeitraum: August 2021 bis Juni 2022
+        Ort: Minsk, Belarus
+        Themen: Python, DWH ETL, Oracle, AWS, Power BI, DQ, BI-Analyse, Data Engineering, Software Development Lifecycle
+
+    Starta Institute by Tel-Ran:
+        Zeitraum: Ab September 2024
+        Ort: 10785 Berlin, Deutschland
+        Themen: Core Python, Advanced Python OOP, Django und Datenbanken, Docker
